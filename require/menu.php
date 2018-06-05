@@ -14,13 +14,13 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="index.html" style="font-size: 20px;">Главная</a>
+                        <a href="index.php" style="font-size: 20px;">Главная</a>
                     </li>
                     <li>
-                        <a href="catalog.html" style="font-size: 20px;">Каталог</a>
+                        <a href="catalog.php" style="font-size: 20px;">Каталог</a>
                     </li>
                     <li>
-                        <a href="#" style="font-size: 20px;">Вредители и болезни</a>
+                        <a href="#" style="font-size: 20px;">Виноградорство в Иркутске</a>
                     </li>
                     <li>
                         <a href="#" style="font-size: 20px;">Галерея</a>
@@ -29,7 +29,7 @@
                         <a href="#" style="font-size: 20px;">Контакты</a>
                     </li>
                     <li>
-                        <a href="order.html" style="font-size: 20px;">Доставка и оплата</a>
+                        <a href="order.php" style="font-size: 20px;">Доставка и оплата</a>
                     </li>
                 </ul>
             </div>
